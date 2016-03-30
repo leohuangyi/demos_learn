@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/leohuangyi/demos_learn#readme"
   "engines": {
-    "node": "5.7.0"
+    "node": "4.4.1"
   },
   "scripts": {
     "start": "node index.js"
