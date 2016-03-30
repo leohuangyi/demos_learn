@@ -16,7 +16,7 @@ const Comment = React.createClass({
                 <div className="ui segment">
                     <div className="ui comments">
                         <h3 className="ui dividing header">留言</h3>
-                        {this.props.comments.map((comment) => {
+                        {this.props.comments && this.props.comments.map((comment) => {
                             return (
                                 <div key={comment.id} className="comment">
                                     <a className="avatar">

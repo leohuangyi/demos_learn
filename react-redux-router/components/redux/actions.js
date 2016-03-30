@@ -1,7 +1,8 @@
 function update_comments(){
     return function(dispatch){
         var comments = JSON.parse(window.localStorage.getItem('comments'));
-        if(comments && comments.length < 1){
+        console.log(comments);
+        if(!comments || comments.length < 1){
             $.ajax({
                 'dataType': 'json',
                 'url': '/react-redux-router/data/comments.json',
