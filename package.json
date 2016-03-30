@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/leohuangyi/demos_learn/issues"
   },
-  "homepage": "https://github.com/leohuangyi/demos_learn#readme"
+  "homepage": "https://github.com/leohuangyi/demos_learn#readme",
   "engines": {
     "node": "4.4.1"
   },
