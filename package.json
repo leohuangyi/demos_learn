@@ -7,22 +7,8 @@
     "koa": "^1.2.0",
     "semantic-ui": "^2.1.8"
   },
-  "devDependencies": {
-    "koa": "^1.2.0"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/leohuangyi/demos_learn.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/leohuangyi/demos_learn/issues"
-  },
-  "homepage": "https://github.com/leohuangyi/demos_learn#readme",
   "engines": {
     "node": "4.4.1"
   },
